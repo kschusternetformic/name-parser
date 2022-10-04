@@ -17,13 +17,18 @@ class German implements LanguageInterface
         'iii' => 'III',
         'iv' => 'IV',
         'v' => 'V',
+        'ek' => 'e.K.'
     ];
 
     const SALUTATIONS = [
         'herr' => 'Herr',
         'hr' => 'Herr',
         'frau' => 'Frau',
-        'fr' => 'Frau'
+        'fr' => 'Frau',
+        'dr med' => 'Dr. med.',
+        'dipl pharm' => 'Dipl.-Pharm.',
+        'dr' => 'Dr',
+        'inh dipl pharm' => 'Inh. Dipl.-Pharm.'
     ];
 
     const LASTNAME_PREFIXES = [
