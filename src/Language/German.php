@@ -21,14 +21,14 @@ class German implements LanguageInterface
     ];
 
     const SALUTATIONS = [
+        'inhdiplpharm' => 'Inh. Dipl.-Pharm.',
+        'diplpharm' => 'Dipl.-Pharm.',
+        'drmed' => 'Dr. med.',
         'herr' => 'Herr',
         'hr' => 'Herr',
         'frau' => 'Frau',
         'fr' => 'Frau',
-        'dr med' => 'Dr. med.',
-        'dipl pharm' => 'Dipl.-Pharm.',
         'dr' => 'Dr',
-        'inh dipl pharm' => 'Inh. Dipl.-Pharm.'
     ];
 
     const LASTNAME_PREFIXES = [
